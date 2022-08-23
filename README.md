@@ -52,6 +52,6 @@ I am a mobile application developer.
 
 ## Other Stuff
 
-![Surbhit Github Visitors](https://badges.pufler.dev/visits/surbhitrao/surbhitrao?style=for-the-badge&color=eb1b0c)
+![Surbhit Github Visitors](https://badges.strrl.dev/visits/surbhitrao/surbhitrao?style=for-the-badge&color=eb1b0c)
 
 
